@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DA29259F-B323-2265-9059-358C88A95A9A}") = "Naruto Will of Fire", "Assembly-CSharp.csproj", "{FD0E4F3E-A4F4-B383-3203-6AE2BBA81BEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD0E4F3E-A4F4-B383-3203-6AE2BBA81BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD0E4F3E-A4F4-B383-3203-6AE2BBA81BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD0E4F3E-A4F4-B383-3203-6AE2BBA81BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD0E4F3E-A4F4-B383-3203-6AE2BBA81BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
